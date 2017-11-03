@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "890975857699",
+    "firebase_url": "https://appchatting-cb239.firebaseio.com",
+    "project_id": "appchatting-cb239",
+    "storage_bucket": "appchatting-cb239.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890975857699:android:f62eddee5b865c5d",
+        "android_client_info": {
+          "package_name": "com.chattingku.krenzfer.chattingku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890975857699-jtb1ppee05acbhfjilci3sfk7ucoq552.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chattingku.krenzfer.chattingku",
+            "certificate_hash": "4999bfe428cc944037d94439ffb19dbc9ee7ab6c"
+          }
+        },
+        {
+          "client_id": "890975857699-o7c8a9f084chlmv04r2e47jo6m167i3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBth3JRVS6C33zsnjMadea0_DECt5GKX0U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890975857699-o7c8a9f084chlmv04r2e47jo6m167i3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
